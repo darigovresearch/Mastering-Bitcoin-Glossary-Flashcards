@@ -1,3 +1,18 @@
+"Introduction (Mastering Bitcoin Glossary)"|"
+<p>This deck has taken definitions outlined in <a href=""https://github.com/bitcoinbook/bitcoinbook/releases/tag/Edition1Print2"">Mastering Bitcoin's first edition Glossary</a> and put them into a form which can be easily learnt/revised using <a href=""https://apps.ankiweb.net/"">Anki</a> a cross platform app specifically designed for long term knowledge retention.</p>
+<h2>Notes</h2>
+<p>Please note the modifications which have been made &amp; where you can find updates.</p>
+<ol align=""left"">
+<li>The front of every card has ""(Mastering Bitcoin Glossary)"" appended to the end so that if you have any other words in your collection, the Mastering Bitcoin Glossary definition will still be added when importing it.</li>
+<li>Any updates, translations or corrections to the deck will be available at <a href=""https://github.com/darigovresearch/Mastering-Bitcoin-Glossary-Flashcards""></a><a href=""https://github.com/darigovresearch/Mastering-Bitcoin-Glossary-Flashcards"">https://github.com/darigovresearch/Mastering-Bitcoin-Glossary-Flashcards</a> so do return periodically to check if you have the latest version.</li>
+</ol>
+<p>Feel free to share the deck and give the repository a star so more people are likely to see this work and can get the most out of it.</p>
+<h2>License</h2>
+<p>Unless otherwise specified, everything in this deck is covered by the following licence:</p>
+<p><a rel=""license"" href=""http://creativecommons.org/licenses/by-sa/4.0/""><img alt=""Creative Commons License"" style=""border-width:0"" src=""https://i.creativecommons.org/l/by-sa/4.0/88x31.png"" /></a></p>
+<p>This work was based on the <em><strong>Mastering Bitcoin Glossary</strong></em> in <span>Mastering Bitcoin - First Edition</span> by <a href=""https://antonopoulos.com/"">Andreas M. Antonopoulos LLC</a> is licensed under a <a href=""http://creativecommons.org/licenses/by-sa/4.0/"">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
+<p>Based on a work at <a xmlns:dct=""http://purl.org/dc/terms/"" href=""https://github.com/Bitcoinbook/Bitcoinbook"" rel=""dct:source"">https://github.com/Bitcoinbook/Bitcoinbook</a>.</p>
+"
 "address (Mastering Bitcoin Glossary)"|"A bitcoin address looks like +1DSrfJdB2AnWaFNgSbv3MZC2m74996JafV+. It consists of a string of letters and numbers starting with a ""1"" (number one). Just like you ask others to send an email to your email address, you would ask others to send you bitcoin to your bitcoin address.
 "
 "bip (Mastering Bitcoin Glossary)"|"Bitcoin Improvement Proposals.  A set of proposals that members of the bitcoin community have submitted to improve bitcoin.  For example, BIP0021 is a proposal to improve the bitcoin uniform resource identifier (URI) scheme.
