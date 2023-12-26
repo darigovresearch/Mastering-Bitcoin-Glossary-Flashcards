@@ -1,8 +1,3 @@
-[preface]
-== Quick Glossary
-
-This quick glossary contains many of the terms used in relation to bitcoin. These terms are used throughout the book, so bookmark this for a quick reference.
-
 address::
     A bitcoin address looks like +1DSrfJdB2AnWaFNgSbv3MZC2m74996JafV+. It consists of a string of letters and numbers starting with a "1" (number one). Just like you ask others to send an email to your email address, you would ask others to send you bitcoin to your bitcoin address.((("bitcoin address")))((("address", see="bitcoin address")))((("public key", see="bitcoin address")))
 
